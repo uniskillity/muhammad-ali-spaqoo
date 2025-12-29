@@ -22,38 +22,64 @@ CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automatio
 ## About Me
 
 I'm a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building  
-**scalable, conversion-optimized MVPs and automation-first systems**.
+**scalable, conversion-optimized MVPs, automation-first systems, and high-performing web products**.
 
-- **Founder** at Spaqoo Tech
-- **Shopify Plus Developer & CRO Optimizer** (USA, UK, Canada, UAE clients)
-- **Webflow & Framer Specialist** for high-performing marketing sites
-- Actively compounding skills in **Agentic AI, automation, and AI-assisted MVPs**
+- **Founder** — Spaqoo Tech  
+- **Shopify Plus Developer & CRO Optimizer** (USA, UK, Canada, UAE)  
+- **Webflow & Framer Specialist** for modern marketing and SaaS sites  
+- Deep focus on **Agentic AI, automation, and AI-assisted MVP execution**
 
-> "I build fast, scalable products by combining CMS, automation, and AI-driven execution."
+> “Execution over noise. Systems over shortcuts.”
 
 ---
 
 ## Tech Stack
 
-### Frontend & CMS
+### Frontend & UI Engineering
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black)
+
+### CMS, eCommerce & No-Code
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-0A3C2F?style=for-the-badge&logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Craft CMS](https://img.shields.io/badge/Craft_CMS-E5422B?style=for-the-badge&logo=craftcms&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-1E90FF?style=for-the-badge&logo=bubble&logoColor=white)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Automation & AI
+### AI, Automation & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-111111?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![AI](https://img.shields.io/badge/Agentic_AI-111111?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27348B?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Databases & Analytics
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### DevOps & Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -64,7 +90,7 @@ I'm a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building
 
 ---
 
-## Let's Connect
+## Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/spaqootech/" target="_blank">
