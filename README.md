@@ -17,15 +17,6 @@ CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automatio
   </a>
 </p>
 
-<!-- LeetCode & GitHub Trophies -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/spaqoo?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uniskillity&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## About Me
