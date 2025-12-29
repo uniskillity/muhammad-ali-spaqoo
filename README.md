@@ -1,8 +1,10 @@
-<h1 align="center"> Hello, I am Muhammad Faizan Asim</h1>
-<h3 align="center">Full Stack Developer & AI Engineer | AI Research Enthusiast</h3>
+<h1 align="center">Hello, I am Muhammad Ali</h1>
+<h3 align="center">
+CMS & AI-Driven Full Stack Developer | Shopify · Webflow · Framer · Automation · MVPs
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Faizan-Asim&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=uniskillity&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=flat-square&logo=workable&logoColor=white" alt="open to work" />
   <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=flat-square&logo=Upwork" alt="freelance available" />
 </p>
@@ -10,101 +12,92 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Faizan-Asim&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Faizan-Asim&layout=compact&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=uniskillity&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniskillity&layout=compact&theme=radical" />
   </a>
 </p>
 
 <!-- LeetCode & GitHub Trophies -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mFaizanAsim?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/spaqoo?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Faizan-Asim&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uniskillity&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I'm an **Experienced Full Stack & Generative AI Developer** with years of professional experience building intelligent, scalable web applications. I blend **full-stack development** with **AI/ML innovation** to solve real-world problems.
+I'm a **CMS, eCommerce & AI-Driven Full Stack Developer** focused on building  
+**scalable, conversion-optimized MVPs and automation-first systems**.
 
-- **Ex-Software Engineer Consultant** at CM Punjab Green Credit Program
-- **Ex-Full Stack Developer** of [Woix] – delivering full-stack solutions
-- **Ex-Teaching Assistant** at UET Lahore, guiding 100+ students in programming
-- Passionate about **AI research**, Gen AI, and community-driven tech education
+- **Founder** at Spaqoo Tech
+- **Shopify Plus Developer & CRO Optimizer** (USA, UK, Canada, UAE clients)
+- **Webflow & Framer Specialist** for high-performing marketing sites
+- Actively compounding skills in **Agentic AI, automation, and AI-assisted MVPs**
 
-> "I build elegant, user-friendly solutions by combining software engineering with artificial intelligence and innovation."
+> "I build fast, scalable products by combining CMS, automation, and AI-driven execution."
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Frontend & CMS
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27348B?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Automation & AI
+![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![AI](https://img.shields.io/badge/Agentic_AI-111111?style=for-the-badge)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Tools & DevOps
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
+## Availability
 
-##  Let's Connect
+- **Remote**
+- **Timezones:** PKT · USA · Canada · Australia
+
+---
+
+## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-faizan-asim/" target="_blank">
+  <a href="https://www.linkedin.com/in/spaqootech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mr.faizan.asim@gmail.com">
+  <a href="mailto:mohdalimeer06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/user9203rb/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://linktr.ee/muhammad_faizan_asim">
-    <img src="https://img.shields.io/badge/Linktree-06D6A0?style=for-the-badge&logo=linktree&logoColor=white" />
+  <a href="https://stackoverflow.com/users/23277724/spaqoo">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-faizan-asim&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniskillity&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://muhammad-faizan-asim.vercel.app/">
+  <a href="https://muhammad-ali-spaqoo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Mr-Faizan-Asim">
+  <a href="https://github.com/uniskillity">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
